@@ -1,0 +1,9 @@
+{
+    "name": "chris1109873/case-converter",
+    "description": "A package for converting camel case to snake case and vice versa.",
+    "autoload": {
+        "psr-4": {
+            "Chris\\": "Chris/"
+        }
+    }
+}
